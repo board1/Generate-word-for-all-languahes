@@ -6,3 +6,10 @@
 这里的计算指标包括 左右信息熵 词频和凝固度
 其中凝固度越高，该gram 越有可能是一个 word/phrase
 
+# This is a tokenization algorithm that can be used for all languages with or without word boundaries
+
+Algorithms can automatically detect whether word boundaries are included and call different processing modules
+
+When using, replace the path in the main_ file
+The calculation indicators here include left and right information entropy, word frequency and coagulation degree
+The higher the degree of solidification, the more likely the gram is a word/phrase
